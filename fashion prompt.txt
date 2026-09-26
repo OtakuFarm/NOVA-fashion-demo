@@ -1,0 +1,164 @@
+You are a senior full-stack developer, UI/UX designer, and e-commerce specialist.
+
+Build a premium, modern fashion e-commerce website called "NOVA".
+
+IMPORTANT:
+- This is a fictional portfolio/demo website.
+- Do not use Shopify's logo, branding, copyrighted assets, or imply that Shopify endorses this website.
+- All products, brands, reviews, customers, and company information must be fictional.
+- Do not implement real payment processing.
+- The website must be production-quality and responsive.
+
+TECH STACK:
+- Next.js with TypeScript
+- Tailwind CSS
+- Lucide React icons
+- Framer Motion for tasteful animations
+- Use clean reusable components
+- Use local/mock product data
+- Structure the code so it could later be connected to Shopify or another commerce backend.
+
+BRAND:
+Name: NOVA
+Industry: Premium streetwear/fashion
+Target audience: 18–35
+Brand personality: modern, confident, minimal, premium
+Tagline: "Move Different."
+
+DESIGN:
+- Premium editorial fashion aesthetic
+- Minimal layout
+- Strong typography
+- Large high-quality product imagery
+- Generous whitespace
+- Subtle animations
+- Excellent mobile experience
+- Avoid looking like a generic template
+- Make the site feel like a real $100k+ fashion brand website
+
+PAGES:
+1. Home
+2. Shop
+3. Collection page
+4. Product details
+5. About
+6. Contact
+7. Cart
+8. Search
+9. Wishlist
+10. FAQ
+11. Shipping & Returns
+12. Privacy Policy
+13. Terms
+
+HOME PAGE:
+Create:
+- Announcement bar
+- Navigation
+- Large hero section
+- "Shop New Arrivals" CTA
+- Featured collections
+- Best sellers
+- New arrivals
+- Editorial fashion section
+- Brand story
+- Customer reviews
+- Newsletter signup
+- Instagram-style gallery
+- Footer
+
+PRODUCTS:
+Create at least 12 fictional products.
+
+Examples:
+- Nova Essential Oversized Tee
+- Nova Cargo Pants
+- Nova Signature Hoodie
+- Nova Runner Sneakers
+- Nova Utility Jacket
+- Nova Relaxed Denim
+- Nova Core Cap
+- Nova Studio Shirt
+- Nova Tech Vest
+- Nova Everyday Shorts
+- Nova Premium Sweatpants
+- Nova Signature Bag
+
+Each product should include:
+- Name
+- Price
+- Description
+- Images
+- Category
+- Sizes
+- Colors
+- Rating
+- Reviews
+- Stock status
+
+PRODUCT PAGE:
+Include:
+- Image gallery
+- Product title
+- Price
+- Rating
+- Description
+- Size selector
+- Color selector
+- Quantity selector
+- Add to cart
+- Wishlist
+- Shipping information
+- Returns information
+- Product recommendations
+- Reviews
+- Recently viewed products
+
+FUNCTIONALITY:
+- Working cart
+- Add/remove products
+- Quantity changes
+- Cart total
+- Wishlist
+- Search
+- Category filtering
+- Price filtering
+- Sorting
+- Responsive navigation
+- Mobile menu
+- Newsletter form validation
+- Toast notifications
+
+ANIMATIONS:
+Use subtle Framer Motion animations:
+- Page transitions
+- Product hover effects
+- Image reveal
+- Buttons
+- Scroll animations
+
+PERFORMANCE:
+- Optimize images
+- Lazy load where appropriate
+- Avoid unnecessary dependencies
+- Use reusable components
+- Good accessibility
+- Semantic HTML
+- SEO metadata
+
+SEO:
+Create realistic metadata for NOVA.
+Include Open Graph metadata.
+Create meaningful page titles and descriptions.
+
+PORTFOLIO PURPOSE:
+The final website should demonstrate that the developer can build a premium Shopify-style fashion store with excellent UX, responsive design, animations, product discovery, and e-commerce functionality.
+
+At the end:
+1. Check the entire project for errors.
+2. Run the development build.
+3. Fix TypeScript errors.
+4. Fix responsive problems.
+5. Make sure navigation works.
+6. Make sure cart functionality works.
+7. Give me a concise summary of the project structure and how to run it.
