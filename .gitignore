@@ -15,3 +15,4 @@ tsconfig.tsbuildinfo
 
 # Output from scripts/shoot.mjs visual QA captures
 preview
+.vercel
